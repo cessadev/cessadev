@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello! My name's César 👋
+### Student of Systems Engineering
 
-<!--
-**cessadev/cessadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from **Colombia** and I am **24** years old, I am currently completing my university studies. I hope to improve my **software development** skills this year.
 
-Here are some ideas to get you started:
+#### My most used terminal commands:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ```cd```
+- ```pwd```
+- ```npm run dev```
+- ```ls```
+- ```code```
+
+#### My favorite terminal aliases:
+
+| alias  | description                |
+| ------ | -------------------------- |
+| cl     | `alias cl="clear"`         |
+| npmd   | `alias npmd="npm run dev"` |
+| npms   | `alias npms="npm start"`   |
