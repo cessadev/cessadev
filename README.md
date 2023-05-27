@@ -7,7 +7,7 @@ I am from **Colombia** and I am **24** years old, I am currently completing my u
 
 - ```cd```
 - ```pwd```
-- ```npm run dev```
+- ```clear```
 - ```ls```
 - ```code```
 
