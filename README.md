@@ -1,17 +1,17 @@
 # Hola, Soy César Urbiña 👋
 
 ## Sobre mi
-Joven colombiano de 25 años estudiante de último semestre de Ingeniería de Sistemas de Información, con perfil orientado al desarrollo de aplicaciones web empresariales en los ecosistema de Spring Boot y Node.js, con conocimientos generales de HTML5, CSS3 y TypeScript.
+Joven colombiano de 25 años estudiante de último semestre de Ingeniería de Sistemas de Información, con perfil orientado al desarrollo de aplicaciones web empresariales en los ecosistema de Spring Boot y Node.js, con conocimientos de HTML5, CSS3 y TypeScript.
 
 ## 🔧 Tecnologías & Herramientas:
 - **Lenguajes:** Java & TypeScript
-- **Ecosistema de Spring:** Spring MVC, Spring WebFlux, Spring Data JPA, Spring Data R2DBC, Spring Validations, Spring Security 6.x y Handler Exceptions.
+- **Ecosistema de Spring:** Spring MVC, Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data R2DBC, Spring Validations, Spring Security 6.x y Handler Exceptions.
 - **Ecosistema de TypeScript:** Node.js & Angular
-- **Tools:** JWT, Lombok, Maven, Postman y Git.
-- **Bases de datos:** MySQL 8.0, PostgreSQL y MongoDB.
-- **Patron de diseño:** DTO & DAO.
+- **Tools:** JWT, Keycloak, Lombok, Maven, Postman y Git.
+- **Bases de datos:** MySQL 8.0, SQLServer, PostgreSQL y MongoDB.
+- **Patron de diseño:** Clean Architecture - DTO & DAO.
 
-Actualmente me encuentro aprendiendo tecnologías basadas en pruebas unitarias, microservicios y contenedores (Docker) en aplicaciones de Spring.
+Actualmente me encuentro aprendiendo tecnologías para el desarrollo de pruebas unitarias y de integración en aplicaciones de Spring.
 
 ## 📫 Contactame
 Actualmente no tengo empleo, si consideras relevantes mis conocimientos para un proyecto temporal o indefinido por favor contactame:
