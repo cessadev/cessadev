@@ -1,6 +1,6 @@
 # Hola, Soy César Urbiña 👋
 
-## Sobre mi
+## 🌱 Sobre mi
 Joven colombiano de 26 años estudiante de último semestre de Ingeniería de Sistemas de Información, con perfil orientado al desarrollo de aplicaciones web empresariales en los ecosistema de Spring Framework y Node.js, con conocimientos de HTML5 y CSS3.
 
 ## 🔧 Tecnologías & Herramientas:
