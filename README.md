@@ -1,23 +1,23 @@
-## Hola, Soy César Urbiña 👋
+## Hello, I'm César Urbiña 👋
 
-### 🌱 Sobre mi
-Joven colombiano de 26 años estudiante de último semestre de Ingeniería de Sistemas de Información, con perfil orientado al desarrollo de aplicaciones web backend en los ecosistemas de Spring Framework y Node.js. Conocimientos en HTML5 y CSS3.
+### 🌱 About Me
+I'm a 26-year-old Colombian student in the final semester of my Information Systems Engineering degree, with a focus on backend web application development in the Spring Framework and Node.js ecosystems. I also have knowledge of HTML5 and CSS3.
 
-### 🔧 Tecnologías & Herramientas:
-- **Lenguajes:** Java & TypeScript
-- **Ecosistema de Spring:** Spring MVC, Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data Mongo, Spring Data R2DBC, Spring Validations y Spring Security 6.
-- **Ecosistema de TypeScript:** Node.js & Angular
-- **Tools & Librerías:** Docker, JWT, Keycloak, Apache Kafka, Lombok, Maven, Postman y Git.
-- **Bases de datos:** MySQL, PostgreSQL y MongoDB.
-- **Patron de diseño:** Clean Architecture & CQRS.
+### 🔧 Technologies & Tools:
+- **Languages:** Java & TypeScript
+- **Spring Ecosystem:** Spring MVC, Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data Mongo, Spring Data R2DBC, Spring Validations, and Spring Security 6.
+- **TypeScript Ecosystem:** Node.js & Angular
+- **Tools & Libraries:** Docker, JWT, Keycloak, Apache Kafka, Lombok, Maven, Postman, and Git.
+- **Databases:** MySQL, PostgreSQL, and MongoDB.
+- **Design Patterns:** Clean Architecture & CQRS.
 
-Mi principal enfoque está dirijido al desarrollo y dockerización de microservicios en Spring. Actualmente me encuentro aprendiendo Kubernetes.
+My primary focus is on developing and containerizing microservices in Spring. I am currently learning Kubernetes.
 
-### 📫 Contactame
-Actualmente no tengo empleo, si consideras relevantes mis conocimientos para un proyecto temporal o indefinido por favor contactame:
+### 📫 Contact Me
+I am currently unemployed. If you find my skills relevant for a temporary or permanent project, please reach out:
 - 📧 Email: cessar720@outlook.com
-- 💼 Linkedln: https://www.linkedin.com/in/cessadev
+- 💼 LinkedIn: [https://www.linkedin.com/in/cessadev](https://www.linkedin.com/in/cessadev)
 
-Estoy abierto a cualquier experiencia laboral que me permita llevar al mundo real mis conocimiento y por ende me ayude a crecer profesionalmente en el entorno del desarrollo web.
+I am open to any job opportunity that allows me to apply my knowledge in real-world scenarios and help me grow professionally in the web development environment.
 
-Gracias por visitar mi perfil.
+Thank you for visiting my profile.
