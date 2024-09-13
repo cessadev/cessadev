@@ -1,9 +1,9 @@
-# Hola, Soy César Urbiña 👋
+## Hola, Soy César Urbiña 👋
 
-## 🌱 Sobre mi
+### 🌱 Sobre mi
 Joven colombiano de 26 años estudiante de último semestre de Ingeniería de Sistemas de Información, con perfil orientado al desarrollo de aplicaciones web backend en los ecosistemas de Spring Framework y Node.js. Conocimientos en HTML5 y CSS3.
 
-## 🔧 Tecnologías & Herramientas:
+### 🔧 Tecnologías & Herramientas:
 - **Lenguajes:** Java & TypeScript
 - **Ecosistema de Spring:** Spring MVC, Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data Mongo, Spring Data R2DBC, Spring Validations y Spring Security 6.
 - **Ecosistema de TypeScript:** Node.js & Angular
@@ -13,7 +13,7 @@ Joven colombiano de 26 años estudiante de último semestre de Ingeniería de Si
 
 Mi principal enfoque está dirijido al desarrollo y dockerización de microservicios en Spring. Actualmente me encuentro aprendiendo Kubernetes.
 
-## 📫 Contactame
+### 📫 Contactame
 Actualmente no tengo empleo, si consideras relevantes mis conocimientos para un proyecto temporal o indefinido por favor contactame:
 - 📧 Email: cessar720@outlook.com
 - 💼 Linkedln: https://www.linkedin.com/in/cessadev
