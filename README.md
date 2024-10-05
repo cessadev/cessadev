@@ -5,13 +5,14 @@ I'm a 26-year-old Colombian student in the final semester of my Information Syst
 
 ### 🔧 Technologies & Tools:
 - **Languages:** Java & TypeScript
-- **Spring Ecosystem:** Spring MVC, Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data Mongo, Spring Data R2DBC, Spring Validations, and Spring Security 6.
+- **Spring Ecosystem:** Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data Mongo, Spring Data R2DBC, Spring Validations, and Spring Security 6.
 - **TypeScript Ecosystem:** Node.js & Angular
-- **Tools & Libraries:** Docker, JWT, Keycloak, Apache Kafka, Lombok, Maven, Postman, and Git.
+- **CI/CD:** Docker, Kubernetes, Helm and GitLab CI/CD.
+- **Tools & Libraries:** JWT, Keycloak, Apache Kafka, Lombok, Maven, Postman, and Git.
 - **Databases:** MySQL, PostgreSQL, and MongoDB.
 - **Design Patterns:** Clean Architecture & CQRS.
 
-My primary focus is on developing and containerizing microservices in Spring. I am currently learning Kubernetes.
+My primary focus is on developing and containerizing microservices in Spring. I am currently learning unit and integration testing with Junit and Testcontainers.
 
 ### 📫 Contact Me
 I am currently unemployed. If you find my skills relevant for a temporary or permanent project, please reach out:
