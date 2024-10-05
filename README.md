@@ -12,7 +12,7 @@ I'm a 26-year-old Colombian student in the final semester of my Information Syst
 - **Databases:** MySQL, PostgreSQL, and MongoDB.
 - **Design Patterns:** Clean Architecture & CQRS.
 
-My primary focus is on developing and containerizing microservices in Spring. I am currently learning unit and integration testing with Junit and Testcontainers.
+My primary focus is on developing and containerizing microservices in Spring. I am currently learning unit and integration testing with JUnit and Testcontainers.
 
 ### 📫 Contact Me
 I am currently unemployed. If you find my skills relevant for a temporary or permanent project, please reach out:
