@@ -5,7 +5,7 @@ I'm a 26-year-old Colombian student in the final semester of my Information Syst
 
 ### 🔧 Technologies & Tools:
 - **Languages:** Java & TypeScript
-- **Spring Ecosystem:** Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data Mongo, Spring Data R2DBC, Spring Validations and Spring Security 6.
+- **Spring Ecosystem:** Spring Boot, Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data Mongo, Spring Data R2DBC, Spring Validations and Spring Security 6.
 - **TypeScript Ecosystem:** Node.js & Angular
 - **CI/CD:** Docker, Kubernetes, Helm and GitLab CI/CD.
 - **Tools & Libraries:** JWT, Keycloak, Apache Kafka, Lombok, Maven, Postman and Git.
