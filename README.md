@@ -4,11 +4,10 @@
 I'm a 26-year-old Colombian student in the final semester of my Information Systems Engineering degree, with a focus on backend web application development in the Spring Framework and Node.js ecosystems. I also have knowledge of HTML5 and CSS3.
 
 ### 🔧 Technologies & Tools:
-- **Languages:** Java & TypeScript
+- **Languages:** Java
 - **Spring Ecosystem:** Spring Boot, Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data Mongo, Spring Data R2DBC, Spring Validations and Spring Security 6.
-- **TypeScript Ecosystem:** Node.js & Angular
 - **CI/CD:** Docker, Kubernetes, Helm and GitLab CI/CD.
-- **Tools & Libraries:** JWT, Keycloak, Apache Kafka, Lombok, Maven, Postman and Git.
+- **Tools & Libraries:** JWT, Keycloak, Lombok, Maven, Postman and Git.
 - **Databases:** MySQL, PostgreSQL and MongoDB.
 - **Design Patterns:** Clean Architecture & CQRS.
 
