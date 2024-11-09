@@ -1,7 +1,7 @@
 ## Hello, I'm César Urbiña 👋
 
 ### 🌱 About Me
-I'm a 26-year-old Colombian student in the final semester of my Information Systems Engineering degree, with a focus on backend web application development in the Spring Framework and Node.js ecosystems. I also have knowledge of HTML5 and CSS3.
+I'm a 26-year-old Colombian student in the final semester of my Information Systems Engineering degree, with a focus on backend web application development in the Spring Framework. I also have knowledge of HTML5 and CSS3.
 
 ### 🔧 Technologies & Tools:
 - **Languages:** Java
