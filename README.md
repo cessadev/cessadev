@@ -4,14 +4,14 @@
 I'm a 26-year-old Colombian student in the final semester of my Information Systems Engineering degree, with a focus on backend web application development in the Spring Framework. I also have knowledge of HTML5 and CSS3.
 
 ### 🔧 Technologies & Tools:
-- **Languages:** Java
-- **Spring Ecosystem:** Spring Boot, Spring WebFlux, Spring Cloud, Spring Data JPA, Spring Data Mongo, Spring Data R2DBC, Spring Validations and Spring Security 6.
+- **Languages:** Java (I am currently learning Golang)
+- **Spring Ecosystem:** Spring Boot, Spring WebFlux, Spring Cloud, Spring Data, Spring Validations and Spring Security 6.
 - **CI/CD:** Docker, Kubernetes, Helm and GitLab CI/CD.
-- **Tools & Libraries:** JWT, Keycloak, Lombok, Maven, Postman and Git.
+- **Tools & Libraries:** JWT, Lombok, Maven, Postman and Git.
 - **Databases:** MySQL, PostgreSQL and MongoDB.
-- **Design Patterns:** Clean Architecture & CQRS.
+- **Design Patterns:** Clean Architecture, Hexagonal Architecture & CQRS.
 
-My primary focus is on developing and containerizing microservices in Spring. I am currently learning unit and integration testing with JUnit and Testcontainers.
+My main focus is the development and containerization of REST services and microservices in Spring. I am currently learning unit and integration testing with JUnit and Testcontainers.
 
 ### 📫 Contact Me
 I am currently unemployed. If you find my skills relevant for a temporary or permanent project, please reach out:
