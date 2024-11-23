@@ -8,5 +8,3 @@
 - **Design Patterns:** Clean Architecture, Hexagonal Architecture & CQRS.
 
 My main focus is the development and containerization of REST services and microservices in Spring. I am currently learning unit and integration testing with JUnit and Testcontainers.
-
-Thank you for visiting my profile.
