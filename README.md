@@ -3,7 +3,7 @@
 - **Languages:** Java
 - **Spring Ecosystem:** Spring Boot, Spring WebFlux, Spring Cloud, Spring Data, Spring Integration, Spring Validation and Spring Security 6.
 - **CI/CD:** Docker, Kubernetes, Helm and GitLab CI/CD.
-- **Tools & Libraries:** JWT, Swagger, Lombok, Maven, Postman & Git.
+- **Tools & Libraries:** JWT, Swagger, Lombok, Maven, Flyway, Postman & Git.
 - **Databases:** MySQL, OracleDB & PostgreSQL.
 - **ORM's:** JPA & MyBatis
 - **Design Patterns:** Clean Architecture & Hexagonal Architecture.
