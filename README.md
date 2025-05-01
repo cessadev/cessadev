@@ -5,7 +5,7 @@
 - **CI/CD:** Docker, Kubernetes, Helm and GitLab CI/CD.
 - **Tools & Libraries:** JWT, Swagger, Lombok, Maven, Flyway, Postman & Git.
 - **Databases:** MySQL, OracleDB & PostgreSQL.
-- **ORM's:** JPA & MyBatis
+- **ORM's:** JPA (Hibernate) & MyBatis
 - **Design Patterns:** Clean Architecture & Hexagonal Architecture.
 
 My main focus is the development and containerization of REST services and microservices in Spring. I am currently learning unit and integration testing with JUnit and Testcontainers.
